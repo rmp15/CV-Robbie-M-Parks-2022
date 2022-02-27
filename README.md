@@ -6,7 +6,7 @@ Work in progress by Robbie M Parks.
 
 2022... and beyond
 
-Please feel free to take and use if useful for your CV and career etc.
+Please feel free to take and adapt if useful for your CV and career etc.
 
 I would always appreciate any thoughts on how to improve too.
 
