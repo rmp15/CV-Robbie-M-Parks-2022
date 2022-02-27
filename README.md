@@ -1,6 +1,6 @@
 # Robbie M Parks CV built by LaTeX 2022
 
-Modular LaTeX project file for my latest CV. Constantly updated.
+Modular LaTeX project file for [my latest CV](https://robbiemparks.github.io/cv/). Constantly updated.
 
 Work in progress by Robbie M Parks.
 
