@@ -10,4 +10,4 @@ Work in progress by Robbie M Parks.
 
 cv_academic.tex is the master file to compile from, with references to sections in /sections/ folder.
 
-Overleaf project found via [link](https://www.overleaf.com/read/nnmzwnggmmkc).
+Viewable Overleaf project found via [link](https://www.overleaf.com/read/nnmzwnggmmkc).
