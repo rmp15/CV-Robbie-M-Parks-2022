@@ -1,4 +1,4 @@
-# Robbie M Parks CV built by LaTeX 2022
+# Robbie M Parks CV built by LaTeX
 
 Modular LaTeX project file for [my latest CV](https://robbiemparks.github.io/cv/). Constantly updated.
 
