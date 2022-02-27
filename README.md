@@ -2,10 +2,12 @@
 
 Modular LaTeX project file for my latest CV. Constantly updated.
 
-Please take and use if useful for your CV and career etc.
+Please feel free to take and use if useful for your CV and career etc.
 
 Work in progress by Robbie M Parks.
 
 2022... and beyond
 
 cv_academic.tex is the master file to compile from, with references to sections in /sections/ folder.
+
+Overleaf project found via [link](https://www.overleaf.com/read/nnmzwnggmmkc).
